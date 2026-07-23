@@ -15,5 +15,5 @@ AndroidStudioProjects\ColorPalette\app\src\main
 Cut copy paste or drop the files in respective directory 
 Compiles on latest android studio , tested with "Android Studio Quail 2 | 2026.1.2" 
 
-<img width="1080" height="2400" alt="colorpalette" src="https://github.com/user-attachments/assets/a1067426-2c9b-49c1-8303-d9f6c673cd7c" />
+<img width="150" height="400" alt="colorpalette" src="https://github.com/user-attachments/assets/a1067426-2c9b-49c1-8303-d9f6c673cd7c" />
 
