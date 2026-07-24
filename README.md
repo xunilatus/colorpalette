@@ -1,5 +1,5 @@
 # colorpalette
-<img width="250" height="580" alt="colorpalette" src="https://github.com/user-attachments/assets/a1067426-2c9b-49c1-8303-d9f6c673cd7c" />
+<img width="250" height="580" alt="Screenshot_20260723-203813" src="https://github.com/user-attachments/assets/f14a36cf-f68f-4f9c-a775-af959a8e8474" />
 
 You DON'T need to use ADB to escalate privileges, you DON'T need shizuku or ROOT, drop 3 files in place and behold , a color picker #colorpicker #colorpalette
 
