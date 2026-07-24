@@ -42,7 +42,5 @@
         android:focusable="true"
         android:textIsSelectable="true"/>
 
-</androidx.constraintlayout.widget.ConstraintLayout>focusable="true"
-        android:textIsSelectable="true"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
